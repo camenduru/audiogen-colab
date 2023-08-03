@@ -15,4 +15,4 @@ https://github.com/facebookresearch/audiocraft
 https://arxiv.org/abs/2306.05284
 
 ## Output
-wav
+WAV 😋
