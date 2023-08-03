@@ -14,5 +14,8 @@ https://github.com/facebookresearch/audiocraft
 ## Paper
 https://arxiv.org/abs/2209.15352
 
+## Model Card
+https://github.com/facebookresearch/audiocraft/blob/main/model_cards/AUDIOGEN_MODEL_CARD.md
+
 ## Output
 https://github.com/camenduru/audiogen-colab/assets/54370274/312d392b-8339-4572-a0f7-42bd3b13be65
